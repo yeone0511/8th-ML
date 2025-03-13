@@ -35,3 +35,6 @@
   
 * 복습과제
   - 제출 x
+
+## 💚 우수 과제
+- [🌟Week1_예습과제_고은비](https://github.com/eeeunbiiii/8th-ML/blob/Week_1/Week1_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B3%A0%EC%9D%80%EB%B9%84.pdf)
